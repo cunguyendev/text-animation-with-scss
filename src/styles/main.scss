@@ -25,7 +25,7 @@ body {
     mix-blend-mode: screen;
     left: 56%;
 
-    @for $i from 0 through 100 {
+    @for $i from 0 through 40 {
       $key: $i + 1;
       &:nth-child(#{$key}) {
         $row: floor($i / 20);
