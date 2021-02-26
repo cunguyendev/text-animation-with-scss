@@ -4,7 +4,7 @@ Create an app about HTML/CSS/JS with Parcel (Web application bundle)
 
 Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
 
-Deploy to Netlify: [https://text-animation-scss.app/](https://text-animation-scss.app/)
+Deploy to Netlify: [https://text-animation-scss.netlify.app](https://text-animation-scss.netlify.app)
 
 ## Requirements
 
